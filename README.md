@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 ## 3D Printers Maintenance Service App
 
 
